@@ -1,0 +1,51 @@
+body{
+    border: 0cap;
+    padding: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-size: 2.45rem ; */
+    background-color:#fcc6ff;
+    position: relative;
+}
+
+h1{
+    color:#ffa09b;
+    margin-left: 40%;
+margin-top: 10%;
+}
+
+.container{
+   height: 200px;
+   width: 40%;
+background-color:#ffe6c9;
+margin-left: 30%;
+margin-top: 2%;
+
+}
+
+.output{
+background-color: #ffc785;
+margin-left: 3%;
+margin-right: 3%;
+
+}
+
+.container2{
+   margin-left: 25px;
+}
+
+.delete_button{
+    background-color: #ffa09b;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.taskAdder{
+    margin-top: 5%;
+    margin-left: 40%;
+    background-color: #ffa09b;
+}
+
+.taskAdder:hover{
+    padding: 5px ;
+    background-color: #ffc785;
+}
