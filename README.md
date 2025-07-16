@@ -64,20 +64,28 @@ No frameworks. No libraries. 100% from scratch.
 🌓 Dark mode toggle
 
 ☁️ Cloud sync with Firebase or backend
+
+
 ---
 
 👩‍💻 Author
 Khushi Singh
 🌐 Portfolio
 📬 Email Me
+
+
 ---
 
 📜 License
 MIT License — Feel free to use, modify, and share!
+
+
 ---
 
 ⭐ Support
 If you like this project, give it a star ⭐ and share it — every bit of support helps!
+
+
 ---
 
 Stay organized. Stay focused. Happy coding!
@@ -92,7 +100,6 @@ Edit
 
 > ✅ A simple, responsive To-Do List App built with HTML, CSS, and JavaScript — with localStorage support to keep your tasks safe.
 
----
 
 Let me know if you'd like a **dark mode version**, **animated UI**, or **task filtering/search** added. I can 
 ---
